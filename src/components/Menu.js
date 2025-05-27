@@ -15,7 +15,7 @@ function Menu({ isOpen, onClose }) {
           <h3>FAQs</h3>
           <h3>Contact us</h3>
           <h3>Partners</h3>
-          <h3>ok</h3>
+          <h3>Newsletter</h3>
         </div>
         <div className="menu-right">
           <h2 className="menu-title">Account</h2>
